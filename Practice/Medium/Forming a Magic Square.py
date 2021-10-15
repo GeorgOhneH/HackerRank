@@ -6,6 +6,7 @@ import sys
 
 # Complete the formingMagicSquare function below.
 def formingMagicSquare(s):
+    pass
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
